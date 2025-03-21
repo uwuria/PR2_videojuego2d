@@ -21,13 +21,13 @@ public class Salto : MonoBehaviour
     void Start()
     {
       //uwu
-    
+     Debug.Log("Saludos Caballero. Mi nombre es "+miNombre+" y tengo "+miEdad+" años");
     }
 
     // Update is called once per frame
     void Update()
     {
-         Debug.Log("Saludos Caballero. Mi nombre es "+miNombre+" y tengo "+miEdad+" años");
+        
 
     }
 }
